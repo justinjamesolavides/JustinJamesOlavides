@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./banner.png" alt="Banner" width="100%" height="50%">
+  <img src="./banner.png" alt="Banner" width="800">
 </p>
+
 
 <h1 align="center">Hi there! 👋 I'm Justin James Olavides</h1>
 <p align="center">Aspiring Full-Stack Web Developer | BSIT Student</p>
