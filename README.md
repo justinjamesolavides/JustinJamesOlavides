@@ -17,7 +17,7 @@ I enjoy building responsive user interfaces and exploring server-side logic to b
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Currently Learning these Tech Stack
 
 - **Front-End:** HTML, CSS, JavaScript, React
 - **Back-End:** PHP (CodeIgniter / Laravel), Node.js
