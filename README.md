@@ -13,7 +13,7 @@ I'm an aspiring Full-Stack Web Developer currently pursuing a **Bachelor of Scie
 I enjoy building responsive user interfaces and exploring server-side logic to build complete, production-ready applications.
 
 📍 Based in the Philippines  
-📫 Contact: justinjames@example.com
+📫 Contact: justinolavides8@gmail.com
 
 ---
 
@@ -36,14 +36,7 @@ I enjoy building responsive user interfaces and exploring server-side logic to b
 
 ### 📌 Projects
 
-> Check out my featured projects below 👇
 
-<!-- Add links to your best projects here -->
-- 🔗 [Project One](#)
-- 🔗 [Project Two](#)
-- 🔗 [Project Three](#)
-
----
 
 ### 📊 GitHub Stats
 
