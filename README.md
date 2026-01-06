@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi there! 👋 I'm Justin James Olavides</h1>
-<p align="center">Aspiring Full-Stack Web Developer | BSIT Student</p>
+<p align="center">Aspiring Criminal | BSIT Student</p>
 
 ---
 
