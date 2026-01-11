@@ -20,11 +20,12 @@ I enjoy building responsive user interfaces and exploring server-side logic to b
 
 ### 🛠 Currently Learning these Tech Stack
 
-- **Front-End:** HTML, CSS, JavaScript, React
-- **Back-End:** PHP (CodeIgniter / Laravel), Node.js
-- **Database:** MySQL, MongoDB
-- **Tools:** Git, GitHub, VS Code
+-Tech Stack
 
+Frontend: HTML, CSS, JavaScript, React, Next.js, Tailwind CSS
+Backend: PHP (CodeIgniter, Laravel), Node.js
+Database: MySQL, MongoDB
+Tools & Platforms: Git, GitHub, VS Code
 ---
 
 ### 🚀 What I’m Focusing On
