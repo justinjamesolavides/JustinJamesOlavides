@@ -23,8 +23,11 @@ I enjoy building responsive user interfaces and exploring server-side logic to b
 -Tech Stack
 
 Frontend: HTML, CSS, JavaScript, React, Next.js, Tailwind CSS
+
 Backend: PHP (CodeIgniter, Laravel), Node.js
+
 Database: MySQL, MongoDB
+
 Tools & Platforms: Git, GitHub, VS Code
 ---
 
