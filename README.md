@@ -16,6 +16,8 @@ I enjoy building responsive user interfaces and exploring server-side logic to b
 
 📫 Contact: justinolavides8@gmail.com
 
+📫 Contact: justinolavides20@gmail.com
+
 ---
 
 ### 🛠 Currently Learning these Tech Stack
