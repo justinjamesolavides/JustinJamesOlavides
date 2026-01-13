@@ -3,10 +3,8 @@
   <img src="banner.png" alt="banner" width="100%" style="border-radius: 10px;"/>
 </p>
 
-<!-- Avatar -->
-<p align="center">
-  <img src="https://giphy.com/gifs/dog-evil-laugh-FLKUJnRt6cGBG102B0" alt="Avatar" width="150" style="border-radius:50%;"/>
-</p>
+<img src="https://media.giphy.com/media/FLKUJnRt6cGBG102B0/giphy.gif" alt="Dog Avatar" width="150" style="border-radius:50%;"/>
+
 
 # Hi there! 👋 I'm Justin James
 ### Aspiring Full-Stack Developer | React & PHP Enthusiast
