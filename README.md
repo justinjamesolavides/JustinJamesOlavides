@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1682685798710-c9f53822bff6?fit=crop&w=1200&h=300" alt="Banner" width="100%" style="border-radius: 10px;"/>
+  <img src=banner.png" alt="Banner" width="100%" style="border-radius: 10px;"/>
 </p>
 
 <!-- Avatar -->
