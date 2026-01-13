@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Cool Guy" width="150" style="border-radius:50%;" />
+  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" alt="Neon Cool" width="150" style="border-radius:50%;" />
 </p>
 
 
