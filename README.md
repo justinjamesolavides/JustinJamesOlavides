@@ -46,5 +46,9 @@ Tools & Platforms: Git, GitHub, VS Code
 
 
 ### 📊 GitHub Stats
+![My Unique Contributions](https://github-readme-stats.vercel.app/api?username=JustinJames&show_icons=true&theme=dracula&count_private=true)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustinJames&layout=compact)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=justinjamesolavides&show_icons=true&theme=radical)
