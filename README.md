@@ -4,12 +4,7 @@
 </p>
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif" alt="Hacker Matrix" width="150" style="border-radius:50%;" />
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="Fire Cool" width="150" style="border-radius:50%;" />
-</p>
+
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="Silhouette Cool" width="150" style="border-radius:50%;" />
 </p>
