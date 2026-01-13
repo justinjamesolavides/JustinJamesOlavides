@@ -1,54 +1,76 @@
+<!-- Banner -->
 <p align="center">
-  <img src="./banner.png" alt="Banner" width="800">
+  <img src="https://images.unsplash.com/photo-1682685798710-c9f53822bff6?fit=crop&w=1200&h=300" alt="Banner" width="100%" style="border-radius: 10px;"/>
 </p>
 
+<!-- Avatar -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Avatar" width="150" style="border-radius:50%;"/>
+</p>
 
-<h1 align="center">Hi there! 👋 I'm Justin James Olavides</h1>
-<p align="center">Aspiring Criminal. | BSIT Student</p>
-
----
-
-### 💻 About Me
-
-I'm an aspiring Full-Stack Web Developer and Daya Analyst currently pursuing a **Bachelor of Science in Information Technology**.  
-I enjoy building responsive user interfaces and exploring server-side logic to build complete, production-ready applications.
-
-
-📫 Contact: justinolavides8@gmail.com
-
-📫 Contact: justinolavides20@gmail.com
+# Hi there! 👋 I'm Justin James
+### Aspiring Full-Stack Developer | React & PHP Enthusiast
 
 ---
 
-### 🛠 Currently Learning these Tech Stack
-
--Tech Stack
-
-Frontend: HTML, CSS, JavaScript, React, Next.js, Tailwind CSS
-
-Backend: PHP (CodeIgniter, Laravel), Node.js
-
-Database: MySQL, MongoDB
-
-Tools & Platforms: Git, GitHub, VS Code
----
-
-### 🚀 What I’m Focusing On
-
-- Building modern, responsive, and accessible front-end UI
-- Learning scalable API design and database architecture
-- Strengthening full-stack project skills with real-world apps
+## 📝 About Me
+- 3rd-year student pursuing **Bachelor of Science in Information Technology**  
+- Passionate about building **clean, responsive, and interactive web apps**  
+- Love collaborating on **open-source projects** and learning new tech  
+- Motto: *“Code. Coffee. Repeat ☕💻”*
 
 ---
 
-### 📌 Projects
+## 🛠️ Tech Stack
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" title="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" title="TailwindCSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+</p>
 
+---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JustinJames&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustinJames&theme=radical" alt="GitHub Streak" width="48%"/>
+</p>
 
-### 📊 GitHub Stats
-![My Unique Contributions](https://github-readme-stats.vercel.app/api?username=JustinJames&show_icons=true&theme=dracula&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinJames&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+</p>
 
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustinJames&layout=compact)
+## 🚀 Featured Projects
+<p>
+  <a href="https://github.com/JustinJames/Project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustinJames&repo=Project1&theme=radical" width="250" />
+  </a>
+  <a href="https://github.com/JustinJames/Project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustinJames&repo=Project2&theme=radical" width="250" />
+  </a>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=justinjamesolavides&show_icons=true&theme=radical)
+---
+
+## 🌐 Connect with Me
+<p>
+  <a href="https://facebook.com/your-link" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-link" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/your-id" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://github.com/JustinJames" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
