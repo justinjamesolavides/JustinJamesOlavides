@@ -3,7 +3,8 @@
   <img src="banner.png" alt="banner" width="100%" style="border-radius: 10px;"/>
 </p>
 
-<img src="https://media.giphy.com/media/FLKUJnRt6cGBG102B0/giphy.gif" alt="Dog Avatar" width="150" style="border-radius:50%;"/>
+<!-- Avatar -->
+<p align="center"> <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Avatar" width="150" style="border-radius:50%;"/> </p>
 
 
 # Hi there! 👋 I'm Justin James
@@ -54,6 +55,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustinJames&repo=Project2&theme=radical" width="250" />
   </a>
 </p>
+
 
 ---
 
