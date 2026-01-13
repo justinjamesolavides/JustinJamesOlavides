@@ -8,14 +8,6 @@
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Cool Guy" width="150" style="border-radius:50%;" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26gslpVjvMqYdN6vS/giphy.gif" alt="Cinematic Cool" width="150" style="border-radius:50%;" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xTiTnJ8K1kzVf9j4De/giphy.gif" alt="Hacker Cool" width="150" style="border-radius:50%;" />
-</p>
-
 
 
 # Hi there! 👋 I'm Justin James
