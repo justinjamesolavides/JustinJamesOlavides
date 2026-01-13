@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src=banner.png" alt="Banner" width="100%" style="border-radius: 10px;"/>
+  <img src=Banner.png" alt="Banner" width="100%" style="border-radius: 10px;"/>
 </p>
 
 <!-- Avatar -->
