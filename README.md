@@ -6,8 +6,9 @@
 
 <!-- Avatar -->
 <p align="center">
-  <img src="https://media.giphy.com/media/FLKUJnRt6cGBG102B0/giphy.gif" alt="Dog Avatar" width="150" style="border-radius:50%;"/>
+  <img src="https://media.giphy.com/media/3o6ZsYv4RbNw6vZgty/giphy.gif" alt="Dog Avatar" width="150" style="border-radius:50%;"/>
 </p>
+>
 
 
 
