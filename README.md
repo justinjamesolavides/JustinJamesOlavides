@@ -5,12 +5,10 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Dog Avatar 1" width="150" style="border-radius:50%;" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDMxcjhobWxzdGR2YmFsZ3JwOHlidmt3bTFmeDl4b2VucHQxeGtxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FLKUJnRt6cGBG102B0/giphy.gif" alt="Dog Avatar 1" width="150" style="border-radius:50%;" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" alt="Happy Dog Avatar" width="150" style="border-radius:50%;" />
-</p>
+
 
 
 # Hi there! 👋 I'm Justin James
