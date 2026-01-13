@@ -3,8 +3,12 @@
   <img src="banner.png" alt="banner" width="100%" style="border-radius: 10px;"/>
 </p>
 
+
 <!-- Avatar -->
-<p align="center"> <img src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3RmamJ4cG91dDFuM3JocHFubGNoMGg1Z252aWdpbGY5OHl1ZmE1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FLKUJnRt6cGBG102B0/giphy.gif" alt="Avatar" width="150" style="border-radius:50%;"/> </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/FLKUJnRt6cGBG102B0/giphy.gif" alt="Dog Avatar" width="150" style="border-radius:50%;"/>
+</p>
+
 
 
 # Hi there! 👋 I'm Justin James
