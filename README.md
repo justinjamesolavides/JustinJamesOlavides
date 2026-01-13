@@ -5,9 +5,16 @@
 
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDMxcjhobWxzdGR2YmFsZ3JwOHlidmt3bTFmeDl4b2VucHQxeGtxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FLKUJnRt6cGBG102B0/giphy.gif" alt="Dog Avatar 1" width="150" style="border-radius:50%;" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Cool Guy" width="150" style="border-radius:50%;" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26gslpVjvMqYdN6vS/giphy.gif" alt="Cinematic Cool" width="150" style="border-radius:50%;" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xTiTnJ8K1kzVf9j4De/giphy.gif" alt="Hacker Cool" width="150" style="border-radius:50%;" />
+</p>
 
 
 
