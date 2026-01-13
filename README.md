@@ -8,6 +8,15 @@
   <img src="https://media.giphy.com/media/5rC85Gu2pVE90/giphy.gif" alt="Dog Avatar 2" width="150" style="border-radius:50%;" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26FPCXdkvDbKBbgOI/giphy.gif" alt="Dog Avatar 4" width="150" style="border-radius:50%;" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Dog Avatar 1" width="150" style="border-radius:50%;" />
+</p>
+
+
 
 
 # Hi there! 👋 I'm Justin James
