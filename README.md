@@ -5,7 +5,7 @@
 
 <!-- Avatar -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Avatar" width="150" style="border-radius:50%;"/>
+  <img src="[https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gi](https://giphy.com/gifs/dog-evil-laugh-FLKUJnRt6cGBG102B0)f" alt="Avatar" width="150" style="border-radius:50%;"/>
 </p>
 
 # Hi there! 👋 I'm Justin James
