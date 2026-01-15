@@ -45,25 +45,24 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JustinJames&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustinJames&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=justinjamesolavides&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=justinjamesolavides&theme=radical" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinJames&layout=compact&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinjamesolavides&layout=compact&theme=radical" width="48%"/>
 </p>
+
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Project
 <p align="center">
-  <a href="https://github.com/JustinJames/Project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustinJames&repo=Project1&theme=radical" />
-  </a>
-  <a href="https://github.com/JustinJames/Project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustinJames&repo=Project2&theme=radical" />
+  <a href="https://github.com/justinjamesolavides/BrgyInformation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=justinjamesolavides&repo=BrgyInformation&theme=radical" />
   </a>
 </p>
+
 
 ---
 
