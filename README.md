@@ -59,7 +59,7 @@
 ## 🌟 Featured Project
 <p align="center">
   <a href="https://github.com/justinjamesolavides/BrgyInformation">
-    <img src="Featuredimage.png" />
+    <img src="Featuredimage.png" alt="FeaturedImage" width="50%" />
   </a>
 </p>
 
