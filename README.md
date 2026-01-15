@@ -59,7 +59,7 @@
 ## 🌟 Featured Project
 <p align="center">
   <a href="https://github.com/justinjamesolavides/BrgyInformation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=justinjamesolavides&repo=BrgyInformation&theme=radical" />
+    <img src="Featuredimage.png" />
   </a>
 </p>
 
