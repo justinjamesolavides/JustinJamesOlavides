@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="banner.png" alt="banner" width="100%" style="border-radius: 12px;"/>
+  <img src="banner.png" alt="banner" width="60%" style="border-radius: 12px;"/>
 </p>
 
 <!-- Profile GIF -->
