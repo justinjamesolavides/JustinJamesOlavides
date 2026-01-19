@@ -20,7 +20,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me!
 - 🎓 3rd-year **BSIT Student**
 - 💻 Building **modern & responsive web applications**
 - ⚡ Loves **clean UI, optimized code & UX**
