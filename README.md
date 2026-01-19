@@ -11,7 +11,7 @@
        style="border-radius:50%; border:3px solid #ff2d55;" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Justin James</h1>
+<h1 align="center">👋! Hi, I'm Justin James</h1>
 <h3 align="center">Aspiring Full-Stack Developer | React • PHP • Modern Web Apps</h3>
 
 <p align="center">
