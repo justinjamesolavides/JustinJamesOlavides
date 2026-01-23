@@ -55,7 +55,7 @@ I'm an **Aspiring Web Developer** passionate about building clean and responsive
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chengmats&show_icons=true&theme=radical" />
+  <img src="https://github.com/razorcheng03/razorcheng03?username=Chengmats&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
