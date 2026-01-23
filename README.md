@@ -1,70 +1,67 @@
 <!-- Banner -->
 <p align="center">
-  <img src="banner.png" alt="banner" width="60%" style="border-radius: 12px;"/>
+  <img src="banner.png" alt="Banner" width="100%" />
 </p>
 
-<!-- Profile GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" 
-       alt="Cool Dev" 
-       width="160" 
-       style="border-radius:50%; border:3px solid #ff2d55;" />
+  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" alt="Neon Cool" width="150" style="border-radius:50%;" />
 </p>
 
-<h1 align="center">👋! Hi, I'm Justin James</h1>
-<h3 align="center">Aspiring Full-Stack Developer | React • PHP • Modern Web Apps</h3>
+# Hi there! Wassup 👋  
+I'm an **Aspiring Web Developer** passionate about building clean and responsive applications.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JustinJames&style=flat-square&color=blue" />
+---
+
+## 👨‍💻 About Me
+- 🎓 3rd-year **BS Information Technology** student  
+- 💻 Passionate about **Full-Stack Web Development**  
+- 🤝 Open to collaborating on projects and learning opportunities  
+
+---
+
+## 🛠️ Tech Stack
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
 </p>
 
 ---
 
-## 🚀 About Me!
-- 🎓 3rd-year **BSIT Student**
-- 💻 Building **modern & responsive web applications**
-- ⚡ Loves **clean UI, optimized code & UX**
-- 🤝 Open for **collaboration & internships**
-- ☕ Motto: *Code. Coffee. Repeat.*
-
----
-
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-</p>
-
-
-
-
----
-
-## 🌟 Featured Projects!
-<p align="center">
-  <a href="https://github.com/justinjamesolavides/BrgyInformation">
-    <img src="Featuredimage.png" alt="FeaturedImage" width="50%" />
+## 🌐 Socials
+<p align="left">
+  <a href="https://www.facebook.com/Chengmats" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-</p>
 
-
----
-
-## 🌐 Connect With Me!
-<p align="center">
-  <a href="https://www.facebook.com/Nitsujjj01">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/justinjamesolavides">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+  <a href="https://discord.com/users/YOUR-DISCORD-ID" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Chengmats" target="_blank">
+    <img src="https://github.com/razorcheng03?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<h3 align="center">🔥 Always learning. Always building. 🔥</h3>
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chengmats&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chengmats&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chengmats&layout=compact&theme=radical" />
+</p>
