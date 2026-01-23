@@ -46,8 +46,8 @@ I'm an **Aspiring Web Developer** passionate about building clean and responsive
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 
-  <a href="https://github.com/Chengmats" target="_blank">
-    <img src="https://github.com/razorcheng03?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/razorcheng03" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -55,13 +55,13 @@ I'm an **Aspiring Web Developer** passionate about building clean and responsive
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github.com/razorcheng03/razorcheng03?username=Chengmats&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=razorcheng03&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chengmats&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=razorcheng03&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chengmats&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razorcheng03&layout=compact&theme=radical" />
 </p>
